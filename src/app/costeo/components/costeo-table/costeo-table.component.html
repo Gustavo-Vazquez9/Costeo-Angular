@@ -1,0 +1,14 @@
+<section>
+  <div
+  class="card"
+  *ngFor="let ingrediente of ingredientes">
+    <img [src]="ingrediente.img"class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">{{ingrediente.name}}</h5>
+      <p class="card-text">
+        <small>${{ingrediente.price}}</small>
+      </p>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+  </div>
+</section>

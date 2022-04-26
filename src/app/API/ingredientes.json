@@ -1,0 +1,804 @@
+{
+  "ingredientes":
+    {
+    "id": 1,
+    "name": "Jitomate",
+    "price": "16.50",
+    "weight": ".120"
+  },
+  {
+    "id": 2,
+    "name": "Limon",
+    "price": "20",
+    "weight": ".135"
+  },
+  {
+    "id": 3,
+    "name": "Azucar",
+    "price": "29",
+    "weight": "0"
+  },
+  {
+    "id": 4,
+    "name": "Cilantro",
+    "price": "7",
+    "weight": ".10"
+  },
+  {
+    "id": 5,
+    "name": "Huevo",
+    "price": "42",
+    "weight": ".60"
+  },
+  {
+    "id": 6,
+    "name": "Carne molida de cerdo",
+    "price": "107",
+    "weight": "0"
+  },
+  {
+    "id": 7,
+    "name": "Fecula de maiz",
+    "price": "39",
+    "weight": "0"
+  },
+  {
+    "id": 8,
+    "name": "Salsa de soya",
+    "price": "64",
+    "weight": "0"
+  },
+  {
+    "id": 9,
+    "name": "Sal",
+    "price": "12.70",
+    "weight": "0"
+  },
+  {
+    "id": 10,
+    "name": "Bicarbonato",
+    "price": "18",
+    "weight": "0"
+  },
+  {
+    "id": 11,
+    "name": "Pimienta blanca",
+    "price": "68.50",
+    "weight": "0"
+  },
+  {
+    "id": 12,
+    "name": "Hueso de puerco",
+    "price": "5",
+    "weight": ".70"
+  },
+  {
+    "id": 13,
+    "name": "Arroz",
+    "price": "33.90",
+    "weight": "0"
+  },
+  {
+    "id": 14,
+    "name": "Agua",
+    "price": "10",
+    "weight": "0"
+  },
+  {
+    "id": 15,
+    "name": "Cebollino",
+    "price": "24.90",
+    "weight": ".30"
+  },
+  {
+    "id": 16,
+    "name": "Jengibre",
+    "price": "190",
+    "weight": "0"
+  },
+  {
+    "id": 17,
+    "name": "Fecula de maiz",
+    "price": "39",
+    "weight": "0"
+  },
+  {
+    "id": 18,
+    "name": "Filete de res",
+    "price": "480",
+    "weight": "3"
+  },
+  {
+    "id": 19,
+    "name": "Aceite de ajonjolin",
+    "price": "39",
+    "weight": "0"
+  },
+  {
+    "id": 20,
+    "name": "Cebolla",
+    "price": "28.90",
+    "weight": ".150"
+  },
+  {
+    "id": 21,
+    "name": "Calabacita",
+    "price": "36.90",
+    "weight": ".200"
+  },
+  {
+    "id": 22,
+    "name": "Zanahoria",
+    "price": "16.90",
+    "weight": ".100"
+  },
+  {
+    "id": 23,
+    "name": "Pimienta",
+    "price": "31.90",
+    "weight": "0"
+  },
+  {
+    "id": 24,
+    "name": "Cebolla Cambray",
+    "price": "9.90",
+    "weight": ".25"
+  },
+  {
+    "id": 25,
+    "name": "Crema",
+    "price": "34",
+    "weight": "0"
+  },
+  {
+    "id": 26,
+    "name": "Chipotle",
+    "price": "8.75",
+    "weight": "0"
+  },
+  {
+    "id": 27,
+    "name": "Papa",
+    "price": "29.90",
+    "weight": ".200"
+  },
+  {
+    "id": 28,
+    "name": "Aceite de oliva",
+    "price": "113",
+    "weight": ".200"
+  },
+  {
+    "id": 29,
+    "name": "Champiñion",
+    "price": "34",
+    "weight": ".100"
+  },
+  {
+    "id": 30,
+    "name": "Queso panela",
+    "price": "47.30",
+    "weight": "0"
+  },
+  {
+    "id": 31,
+    "name": "Pimienton",
+    "price": "50",
+    "weight": "0"
+  },
+  {
+    "id": 32,
+    "name": "Harina",
+    "price": "13.50",
+    "weight": "0"
+  },
+  {
+    "id": 33,
+    "name": "Cubo de consome",
+    "price": "5",
+    "weight": "0"
+  },
+  {
+    "id": 34,
+    "name": "Costilla de cerdo",
+    "price": "122",
+    "weight": "1"
+  },
+  {
+    "id": 35,
+    "name": "Puerro",
+    "price": "54",
+    "weight": ".100"
+  },
+  {
+    "id": 36,
+    "name": "Canela",
+    "price": "35",
+    "weight": ".13"
+  },
+  {
+    "id": 37,
+    "name": "Vino blanco",
+    "price": "150",
+    "weight": "0"
+  },
+  {
+    "id": 38,
+    "name": "Aceite",
+    "price": "42",
+    "weight": "0"
+  },
+  {
+    "id": 39,
+    "name": "Caldo de carne",
+    "price": "10",
+    "weight": "0"
+  },
+  {
+    "id": 40,
+    "name": "Hongo",
+    "price": "34.90",
+    "weight": ".75"
+  },
+  {
+    "id": 41,
+    "name": "Aceite de girasol",
+    "price": "300",
+    "weight": "0"
+  },
+  {
+    "id": 42,
+    "name": "Ajo",
+    "price": "10",
+    "weight": "0"
+  },
+  {
+    "id": 43,
+    "name": "Chile verde",
+    "price": "60",
+    "weight": ".10"
+  },
+  {
+    "id": 44,
+    "name": "Consome de pollo",
+    "price": "5",
+    "weight": "0"
+  },
+  {
+    "id": 45,
+    "name": "Hoja de limon",
+    "price": "8.50",
+    "weight": ".5"
+  },
+  {
+    "id": 46,
+    "name": "Limon",
+    "price": "26.90",
+    "weight": ".135"
+  },
+  {
+    "id": 47,
+    "name": "Vinagre de arroz",
+    "price": "26",
+    "weight": "0"
+  },
+  {
+    "id": 48,
+    "name": "Salsa de pezcado",
+    "price": "120",
+    "weight": "0"
+  },
+  {
+    "id": 49,
+    "name": "Tofu",
+    "price": "45",
+    "weight": "0"
+  },
+  {
+    "id": 50,
+    "name": "Camaron",
+    "price": "154",
+    "weight": ".30"
+  },
+  {
+    "id": 51,
+    "name": "Pimiento rojo",
+    "price": "80",
+    "weight": ".150"
+  },
+  {
+    "id": 52,
+    "name": "Pimiento verde",
+    "price": "54",
+    "weight": ".150"
+  },
+  {
+    "id": 53,
+    "name": "Fideos",
+    "price": "8.50",
+    "weight": "0"
+  },
+  {
+    "id": 54,
+    "name": "Pollo",
+    "price": "130",
+    "weight": "1"
+  },
+  {
+    "id": 55,
+    "name": "Chile ancho",
+    "price": "26.90",
+    "weight": ".50"
+  },
+  {
+    "id": 56,
+    "name": "Oregano",
+    "price": "26.90",
+    "weight": "0"
+  },
+  {
+    "id": 57,
+    "name": "Albahaca",
+    "price": "25.50",
+    "weight": "0"
+  },
+  {
+    "id": 58,
+    "name": "Paprika",
+    "price": "45",
+    "weight": "0"
+  },
+  {
+    "id": 59,
+    "name": "Comino",
+    "price": "11.90",
+    "weight": "0"
+  },
+  {
+    "id": 60,
+    "name": "Laurel",
+    "price": "9",
+    "weight": "0"
+  },
+  {
+    "id": 61,
+    "name": "Vinagre",
+    "price": "10",
+    "weight": "0"
+  },
+  {
+    "id": 63,
+    "name": "Azucar moscabada",
+    "price": "18.50",
+    "weight": "0"
+  },
+  {
+    "id": 62,
+    "name": "Brocoli",
+    "price": "39.90",
+    "weight": ".500"
+  },
+  {
+    "id": 64,
+    "name": "Jicama",
+    "price": "26.90",
+    "weight": ".450"
+  },
+  {
+    "id": 65,
+    "name": "Germen de soya",
+    "price": "29.90",
+    "weight": "0"
+  },
+  {
+    "id": 66,
+    "name": "Ajonjoli negro",
+    "price": "19.90",
+    "weight": "0"
+  },
+  {
+    "id": 67,
+    "name": "Levadura",
+    "price": "16.90",
+    "weight": "0"
+  },
+  {
+    "id": 68,
+    "name": "Mantequilla",
+    "price": "16.90",
+    "weight": "0"
+  },
+  {
+    "id": 69,
+    "name": "Ajo en polvo",
+    "price": "36.50",
+    "weight": "0"
+  },
+  {
+    "id": 70,
+    "name": "Polvo de hornear",
+    "price": "16.50",
+    "weight": "0"
+  },
+  {
+    "id": 71,
+    "name": "Capsup",
+    "price": "21.50",
+    "weight": "0"
+  },
+  {
+    "id": 72,
+    "name": "Miel",
+    "price": "71",
+    "weight": "0"
+  },
+  {
+    "id": 73,
+    "name": "Filete de pescado",
+    "price": "80",
+    "weight": ".142"
+  },
+  {
+    "id": 74,
+    "name": "Perejil",
+    "price": "9.90",
+    "weight": "0"
+  },
+  {
+    "id": 75,
+    "name": "Mostaza djon",
+    "price": "45",
+    "weight": "0"
+  },
+  {
+    "id": 76,
+    "name": "Plan blanco",
+    "price": "28.80",
+    "weight": ".10"
+  },
+  {
+    "id": 77,
+    "name": "Lechuga para acompañar",
+    "price": "28.90",
+    "weight": "0"
+  },
+  {
+    "id": 78,
+    "name": "Curry en polvo",
+    "price": "35",
+    "weight": "0"
+  },
+  {
+    "id": 79,
+    "name": "Pulpo",
+    "price": "260",
+    "weight": "0"
+  },
+  {
+    "id": 80,
+    "name": "Bisteck",
+    "price": "137",
+    "weight": ".300"
+  },
+  {
+    "id": 81,
+    "name": "Glutamato de sodio",
+    "price": "39.90",
+    "weight": "0"
+  },
+  {
+    "id": 82,
+    "name": "Salsa hoising",
+    "price": "63",
+    "weight": "0"
+  },
+  {
+    "id": 83,
+    "name": "Vinagre de manzana",
+    "price": "12.15",
+    "weight": "0"
+  },
+  {
+    "id": 84,
+    "name": "Vainilla",
+    "price": "11.80",
+    "weight": "0"
+  },
+  {
+    "id": 85,
+    "name": "Carne molida de pollo",
+    "price": "107",
+    "weight": "0"
+  },
+  {
+    "id": 86,
+    "name": "Pepinillo salmuera",
+    "price": "45.90",
+    "weight": ".300"
+  },
+  {
+    "id": 87,
+    "name": "Salsa de chile",
+    "price": "27.50",
+    "weight": "0"
+  },
+  {
+    "id": 88,
+    "name": "Sake",
+    "price": "137",
+    "weight": "0"
+  },
+  {
+    "id": 89,
+    "name": "Miso picante",
+    "price": "72",
+    "weight": "0"
+  },
+  {
+    "id": 90,
+    "name": "Tocino",
+    "price": "250",
+    "weight": "0"
+  },
+  {
+    "id": 91,
+    "name": "Aceite de sesamo",
+    "price": "42",
+    "weight": "0"
+  },
+  {
+    "id": 92,
+    "name": "Salsa tomkatsu",
+    "price": "88",
+    "weight": "0"
+  },
+  {
+    "id": 93,
+    "name": "Aniz",
+    "price": "88",
+    "weight": "0"
+  },
+  {
+    "id": 94,
+    "name": "Mirin",
+    "price": "120",
+    "weight": "0"
+  },
+  {
+    "id": 95,
+    "name": "Algo nori",
+    "price": "43",
+    "weight": ".3"
+  },
+  {
+    "id": 96,
+    "name": "Surimi",
+    "price": "77",
+    "weight": ".50"
+  },
+  {
+    "id": 97,
+    "name": "Aguacate",
+    "price": "37",
+    "weight": ".200"
+  },
+  {
+    "id": 98,
+    "name": "Pepino",
+    "price": "24.90",
+    "weight": ".250"
+  },
+  {
+    "id": 99,
+    "name": "Queso crema",
+    "price": "25.60",
+    "weight": "0"
+  },
+  {
+    "id": 100,
+    "name": "Atun",
+    "price": "40.90",
+    "weight": "0"
+  },
+  {
+    "id": 101,
+    "name": "Chile serrano",
+    "price": "80",
+    "weight": ".25"
+  },
+  {
+    "id": 102,
+    "name": "Pierna de cerdo",
+    "price": "124",
+    "weight": "0"
+  },
+  {
+    "id": 103,
+    "name": "Salsa amarilla",
+    "price": "6.90",
+    "weight": "0"
+  },
+  {
+    "id": 104,
+    "name": "Vino tinto",
+    "price": "61",
+    "weight": "0"
+  },
+  {
+    "id": 105,
+    "name": "Calamar",
+    "price": "38",
+    "weight": ".700"
+  },
+  {
+    "id": 106,
+    "name": "Mejillones",
+    "price": "33",
+    "weight": ".55"
+  },
+  {
+    "id": 107,
+    "name": "Masiza de puerco",
+    "price": "120",
+    "weight": "0"
+  },
+  {
+    "id": 108,
+    "name": "Lechuga napa",
+    "price": "54",
+    "weight": "0"
+  },
+  {
+    "id": 110,
+    "name": "Col",
+    "price": "25.90",
+    "weight": "0"
+  },
+  {
+    "id": 111,
+    "name": "Tallarines",
+    "price": "41",
+    "weight": "0"
+  },
+  {
+    "id": 112,
+    "name": "Pasta de chile",
+    "price": "39",
+    "weight": "0"
+  },
+  {
+    "id": 113,
+    "name": "Salsa de ostion",
+    "price": "38.50",
+    "weight": "0"
+  },
+  {
+    "id": 114,
+    "name": "Hrina de arroz",
+    "price": "22",
+    "weight": "0"
+  },
+  {
+    "id": 115,
+    "name": "Leche de coco",
+    "price": "38.50",
+    "weight": "0"
+  },
+  {
+    "id": 116,
+    "name": "Polvo para hornear",
+    "price": "16.90",
+    "weight": "0"
+  },
+  {
+    "id": 117,
+    "name": "Cacahuate",
+    "price": "33.90",
+    "weight": "0"
+  },
+  {
+    "id": 118,
+    "name": "Ralladura de coco",
+    "price": "29.90",
+    "weight": "0"
+  },
+  {
+    "id": 119,
+    "name": "Platano macho",
+    "price": "33.90",
+    "weight": "0"
+  },
+  {
+    "id": 120,
+    "name": "Azucar glass",
+    "price": "15.65",
+    "weight": "0"
+  },
+  {
+    "id": 121,
+    "name": "Hoja de arbol",
+    "price": "12.90",
+    "weight": "0"
+  },
+  {
+    "id": 122,
+    "name": "Salsa picante",
+    "price": "6.90",
+    "weight": "0"
+  },
+  {
+    "id": 123,
+    "name": "Costilla de res",
+    "price": "160",
+    "weight": ".800"
+  },
+  {
+    "id": 124,
+    "name": "Cerveza",
+    "price": "20.90",
+    "weight": "0"
+  },
+  {
+    "id": 125,
+    "name": "Hojas de arroz",
+    "price": "12.90",
+    "weight": "0"
+  },
+
+
+  {
+    "id": 126,
+    "name": "Apio",
+    "price": "24.90",
+    "weight": ".500"
+  },
+  {
+    "id": 127,
+    "name": "Agua mineral",
+    "price": "13",
+    "weight": "0"
+  },
+  {
+    "id": 128,
+    "name": "Chiles cuaresmeños",
+    "price": "64",
+    "weight": ".8"
+  },
+  {
+    "id": 129,
+    "name": "Aceite de cacahuate",
+    "price": "43",
+    "weight": "0"
+  },
+  {
+    "id": 128,
+    "name": "Azafran",
+    "price": "80",
+    "weight": "0"
+  },
+  {
+    "id": 129,
+    "name": "Fecula de papa",
+    "price": "75",
+    "unity",:["g","kg","cda","cdta","tza","c/s"],
+    "weight": "0"
+  },
+  {
+    "id": 130,
+    "name": "Piña",
+    "price": "9.50",
+    "weight": "0"
+  },
+  {
+    "id": 131,
+    "name": "Obleas de arroz",
+    "price": "33",
+    "weight": ".10"
+  },
+  {
+    "id": 132,
+    "name": "Salasa chili dulce",
+    "price": "56",
+    "weight": "0"
+  }
+}
