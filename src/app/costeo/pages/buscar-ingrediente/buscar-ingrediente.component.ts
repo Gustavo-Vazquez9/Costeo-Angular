@@ -8,19 +8,5 @@ import { CosteoService } from '../../services/costeo.service';
   styleUrls: ['./buscar-ingrediente.component.css']
 })
 export class BuscarIngredienteComponent{
-  ingredientes: Ingrediente [] = [];
-  constructor(private costeoService: CosteoService) {
-    this.costeoService.mostrarIngrediente()
-    .subscribe((respuesta)=>{
-        this.ingredientes = respuesta;
-    });
-  }
 
-  buscar(evento : string){
-    this.costeoService.buscarIngrediente(evento)
-    .subscribe((respuesta)=>{
-      console.log(respuesta);
-      this.ingredientes=respuesta;
-    });
-  }
 }
